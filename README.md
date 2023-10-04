@@ -2,13 +2,17 @@
 
 ## About this Laravel app
 
-Simple Todo List app made with Laravel
+Simple Todo List app with Api-Rest made with Laravel.
+- User registration (Jetstream)
+- Dynamic interface (Livewire, AlpineJS)
+- Token based API (Sanctum)
+- Design (Tailwind)
 
 ## Screenshots
 
 <p><img src="/public/img/screenshot.gif"></p>
 
-API Rest
+API REST
 
 <p><img src="/public/img/s01.jpg" width="400"></p>
 <p><img src="/public/img/s02.jpg" width="400"></p>
